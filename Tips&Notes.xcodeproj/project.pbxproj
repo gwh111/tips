@@ -12,6 +12,7 @@
 		1807369F19ED196B00EE4F6A /* more.png in Resources */ = {isa = PBXBuildFile; fileRef = 1807369E19ED196B00EE4F6A /* more.png */; };
 		180736A319ED217300EE4F6A /* TipsHistoryTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 180736A119ED217300EE4F6A /* TipsHistoryTableViewCell.m */; };
 		180736A419ED217300EE4F6A /* TipsHistoryTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 180736A219ED217300EE4F6A /* TipsHistoryTableViewCell.xib */; };
+		180A817B19EFBC8E001E2A11 /* tttttViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 180A817A19EFBC8E001E2A11 /* tttttViewController.m */; };
 		18427EBD19E6728900BFC5CD /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 18427EBC19E6728900BFC5CD /* main.m */; };
 		18427EC019E6728900BFC5CD /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 18427EBF19E6728900BFC5CD /* AppDelegate.m */; };
 		18427EC319E6728900BFC5CD /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 18427EC219E6728900BFC5CD /* ViewController.m */; };
@@ -73,6 +74,8 @@
 		180736A019ED217300EE4F6A /* TipsHistoryTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TipsHistoryTableViewCell.h; sourceTree = "<group>"; };
 		180736A119ED217300EE4F6A /* TipsHistoryTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TipsHistoryTableViewCell.m; sourceTree = "<group>"; };
 		180736A219ED217300EE4F6A /* TipsHistoryTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = TipsHistoryTableViewCell.xib; sourceTree = "<group>"; };
+		180A817919EFBC8E001E2A11 /* tttttViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = tttttViewController.h; sourceTree = "<group>"; };
+		180A817A19EFBC8E001E2A11 /* tttttViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = tttttViewController.m; sourceTree = "<group>"; };
 		18427EB719E6728900BFC5CD /* Tips&Notes.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Tips&Notes.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		18427EBB19E6728900BFC5CD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		18427EBC19E6728900BFC5CD /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -176,6 +179,8 @@
 				18427EBF19E6728900BFC5CD /* AppDelegate.m */,
 				18427EC119E6728900BFC5CD /* ViewController.h */,
 				18427EC219E6728900BFC5CD /* ViewController.m */,
+				180A817919EFBC8E001E2A11 /* tttttViewController.h */,
+				180A817A19EFBC8E001E2A11 /* tttttViewController.m */,
 				187099B119EE4F6200B36171 /* 图片 */,
 				18B1490A19E77DCC00517F4A /* 纸条 */,
 				18B1490B19E77DD700517F4A /* 笔记 */,
@@ -422,6 +427,7 @@
 				18B1491219E7873700517F4A /* DKCircleButton.m in Sources */,
 				18B1490E19E77E9E00517F4A /* NewTipsView.m in Sources */,
 				187099B019EE3DDE00B36171 /* EditTipsView.m in Sources */,
+				180A817B19EFBC8E001E2A11 /* tttttViewController.m in Sources */,
 				1807369D19ED159A00EE4F6A /* HistoryViewController.m in Sources */,
 				187099B419EE539000B36171 /* NotesAddViewController.m in Sources */,
 				1856825E19E6797100B5E273 /* NotesViewController.m in Sources */,
